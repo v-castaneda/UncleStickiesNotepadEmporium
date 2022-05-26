@@ -1,27 +1,36 @@
 #classic {
-
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 #modern {
-
+    background-color: rgba(225, 201, 16, 0.883);
+    padding-top: 1em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    text-align: center;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: Arial, sans-serif;
 }
 
 #impact {
-
+    background-color: rgba(16, 225, 47, 0.883);
+    border-style: double;
+    padding: 1.5em;
+    border-width: 15px;
+    font-family: sans-serif;
 }
 
 #elise {
-
+    font-family: sans-serif;
 }
 
 #one, #two  {
-
+    font-family: sans-serif;
 }
 
 #gaudi {
-
+    font-family: sans-serif;
 }
-
-
-
-
